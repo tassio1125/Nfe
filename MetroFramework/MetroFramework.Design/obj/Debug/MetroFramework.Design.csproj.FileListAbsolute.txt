@@ -1,0 +1,7 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb

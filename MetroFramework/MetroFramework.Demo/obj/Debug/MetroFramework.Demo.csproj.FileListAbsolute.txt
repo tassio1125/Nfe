@@ -1,0 +1,14 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\bin\Debug\MetroFramework.Demo.exe.config
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\bin\Debug\MetroFramework.Demo.exe
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\bin\Debug\MetroFramework.Demo.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\bin\Debug\MetroFramework.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\bin\Debug\MetroFramework.Fonts.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\bin\Debug\MetroFramework.Fonts.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\bin\Debug\MetroFramework.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\obj\Debug\MetroFramework.Demo.csprojResolveAssemblyReference.cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\obj\Debug\MetroFramework.Demo.MainForm.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\obj\Debug\MetroFramework.Demo.Properties.Resources.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\obj\Debug\MetroFramework.Demo.TaskWindowControl.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\obj\Debug\MetroFramework.Demo.csproj.GenerateResource.Cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\obj\Debug\MetroFramework.Demo.exe
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Demo\obj\Debug\MetroFramework.Demo.pdb

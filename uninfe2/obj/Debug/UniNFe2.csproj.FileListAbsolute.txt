@@ -1,0 +1,9 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe2\obj\Debug\UniNFe2.csprojResolveAssemblyReference.cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe2\obj\Debug\uninfe2.Properties.Resources.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe2\obj\Debug\UniNFe2.csproj.GenerateResource.Cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe2\obj\Debug\UniNFe2.exe
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe2\obj\Debug\UniNFe2.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\UniNfeSobre.xml
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\UniNFe2.exe.config
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\UniNFe2.exe
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\UniNFe2.pdb

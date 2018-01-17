@@ -1,0 +1,11 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.ConvertTxt.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.ConvertTxt.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Components.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Settings.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Components.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Settings.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.csprojResolveAssemblyReference.cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.Properties.Resources.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.csproj.GenerateResource.Cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.pdb

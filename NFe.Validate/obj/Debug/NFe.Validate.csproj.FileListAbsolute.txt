@@ -1,0 +1,11 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Validate.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Validate.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Certificado.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Components.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Settings.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Certificado.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Components.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Settings.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.csprojResolveAssemblyReference.cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.pdb

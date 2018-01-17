@@ -1,0 +1,17 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\ResolveAssemblyReference.cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormCNPJ.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormConfiguracao.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormConsultaCadastro.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormConsultaCadastroResult.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormLogs.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.formMunicipios.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormNova.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormSenha.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormSobre.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormUpdate.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormWait.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.Properties.Resources.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.retConsCad.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.ucConfiguracao.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.FormValidarXML.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Interface\obj\Release\NFe.Interface.csproj.GenerateResource.Cache

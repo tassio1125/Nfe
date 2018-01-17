@@ -1,0 +1,69 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.MainForm.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.Properties.Resources.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csproj.GenerateResource.Cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\UniNfeSobre.xml
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.Info.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Interface.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Settings.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Threadings.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Service.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.ConvertTxt.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Validate.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Certificado.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\obj\Release\sgenfe.FrmRegistro.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.Info.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Interface.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Settings.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Threadings.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Certificado.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Service.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Validate.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.ConvertTxt.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe.config
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe.manifest
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.application
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.exe.manifest
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.application
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.exe
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csprojResolveAssemblyReference.cache
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\UniNfeSobre.xml
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe.config
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe.manifest
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.application
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.dll
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Info.dll
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Wsdl.dll
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Interface.dll
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Settings.dll
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Threadings.dll
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Certificado.dll
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Service.dll
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Validate.dll
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.ConvertTxt.dll
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Info.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Wsdl.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Interface.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Settings.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Threadings.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Certificado.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Service.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Validate.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.ConvertTxt.pdb
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csprojResolveAssemblyReference.cache
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\sgenfe.FrmRegistro.resources
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.MainForm.resources
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.Properties.Resources.resources
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csproj.GenerateResource.Cache
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csproj.CoreCompileInputs.cache
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.exe.manifest
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.application
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.exe
+\\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.pdb

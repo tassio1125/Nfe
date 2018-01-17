@@ -1,0 +1,4 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.Wsdl.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components.Wsdl\obj\Debug\NFe.Components.Wsdl.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components.Wsdl\obj\Debug\NFe.Components.Wsdl.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.Wsdl.pdb

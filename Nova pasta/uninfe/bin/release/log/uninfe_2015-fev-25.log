@@ -1,0 +1,90 @@
+﻿16:43:11  Não foi possível atualizar pacotes de Schemas/WSDLs.
+O índice estava fora dos limites da matriz.
+16:46:11  Não foi possível atualizar pacotes de Schemas/WSDLs.
+O índice estava fora dos limites da matriz.
+16:46:12  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+16:46:12  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+16:46:12  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+16:46:12  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+16:46:12  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+16:46:12  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:23:31  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:23:31  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:23:31  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:23:31  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:23:31  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:23:31  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:23:57  O arquivo C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Envio\Temp\20150225T172356-ped-sta.xml iniciou o processamento
+17:23:57  O arquivo C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Envio\Temp\20150225T172356-ped-sta.xml foi movido para C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Erro\20150225T172356-ped-sta.xml
+STACK TRACE:
+   em System.Environment.get_StackTrace()
+   em NFe.Components.Functions.WriteLog(String msg, Boolean gravarStackTrace, Boolean geraLog)
+   em NFe.Settings.Auxiliar.WriteLog(String msg, Boolean gravarStackTrace)
+   em NFe.Service.TFunctions.MoveArqErro(String Arquivo, String ExtensaoArq)
+   em NFe.Service.TFunctions.MoveArqErro(String Arquivo)
+   em NFe.Service.TFunctions.GravarArqErroServico(String arquivo, String finalArqEnvio, String finalArqErro, Exception exception, ErroPadrao erroPadrao, Boolean moveArqErro)
+   em NFe.Service.Processar.GravaErroERP(String arquivo, Servicos servico, Exception ex, ErroPadrao erroPadrao)
+   em NFe.Service.Processar.ProcessaArquivo(Int32 emp, String arquivo)
+   em NFe.Threadings.ThreadControlEvents.Processar(ThreadItem item)
+   em NFe.Threadings.ThreadControlEvents.ThreadItem_OnStarted(ThreadItem item)
+   em NFe.Threadings.ThreadItem.Processar(ThreadItem item)
+   em NFe.Threadings.ThreadItem.Run()
+   em NFe.Threadings.MonitoraPasta.fsw_OnFileChanged(FileInfo fi)
+   em NFe.Threadings.FileSystemWatcher.<>c__DisplayClass4.<RaiseFileChanged>b__2()
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart()
+17:23:57  ErrorCode|0000000003
+Message|Validade do certificado digital está vencida. (16/11/2012 17:04:26 a 16/11/2013 23:04:26)
+StackTrace|   em NFe.Service.Processar.CertVencido(Int32 emp)
+   em NFe.Service.Processar.ProcessaArquivo(Int32 emp, String arquivo)
+Source|NFe.Service
+Type|NFe.Exceptions.ExceptionCertificadoDigital
+TargetSite|Void CertVencido(Int32)
+HashCode|39791642
+STACK TRACE:
+   em System.Environment.get_StackTrace()
+   em NFe.Components.Functions.WriteLog(String msg, Boolean gravarStackTrace, Boolean geraLog)
+   em NFe.Settings.Auxiliar.WriteLog(String msg, Boolean gravarStackTrace)
+   em NFe.Service.TFunctions.GravarArqErroServico(String arquivo, String finalArqEnvio, String finalArqErro, Exception exception, ErroPadrao erroPadrao, Boolean moveArqErro)
+   em NFe.Service.Processar.GravaErroERP(String arquivo, Servicos servico, Exception ex, ErroPadrao erroPadrao)
+   em NFe.Service.Processar.ProcessaArquivo(Int32 emp, String arquivo)
+   em NFe.Threadings.ThreadControlEvents.Processar(ThreadItem item)
+   em NFe.Threadings.ThreadControlEvents.ThreadItem_OnStarted(ThreadItem item)
+   em NFe.Threadings.ThreadItem.Processar(ThreadItem item)
+   em NFe.Threadings.ThreadItem.Run()
+   em NFe.Threadings.MonitoraPasta.fsw_OnFileChanged(FileInfo fi)
+   em NFe.Threadings.FileSystemWatcher.<>c__DisplayClass4.<RaiseFileChanged>b__2()
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart()
+17:23:57  O arquivo C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Envio\Temp\20150225T172356-ped-sta.xml finalizou o processamento
+17:23:57  O arquivo C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Envio\Temp\20150225T172356-ped-sta.xml foi descarregado da lista de processamento
+17:31:46  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:31:46  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:31:46  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:31:46  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:31:46  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:31:46  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:33:42  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:33:42  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:33:42  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:33:42  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:33:42  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:33:42  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:34:51  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:34:51  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:34:51  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:34:51  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:34:51  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:34:51  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:35:31  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:35:31  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:35:31  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:35:31  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:35:31  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:35:31  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:36:57  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:36:57  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:36:57  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:36:57  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:36:57  wsItem <wsdl\homologacao\SVAN\HSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>
+17:36:57  wsItem <wsdl\producao\SVAN\PSVANCadConsultaCadastro2.wsdl> nao encontrada na classe URLws em <NFeConsultaCadastro>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PastaXmlEnvio>C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Envio</PastaXmlEnvio>
+  <PastaXmlRetorno>C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Retorno</PastaXmlRetorno>
+  <PastaXmlEnviado>C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Enviado</PastaXmlEnviado>
+  <PastaXmlErro>C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Erro</PastaXmlErro>
+  <PastaBackup />
+  <PastaXmlEmLote>C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\EnvioEmLote</PastaXmlEmLote>
+  <PastaValidar>C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Validar</PastaValidar>
+  <PastaDanfeMon />
+  <PastaDownloadNFeDest>C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\DownloadNFe</PastaDownloadNFeDest>
+  <CNPJ>00000000000000</CNPJ>
+  <Nome>teste</Nome>
+  <UnidadeFederativaCodigo>21</UnidadeFederativaCodigo>
+  <AmbienteCodigo>2</AmbienteCodigo>
+  <tpEmis>1</tpEmis>
+  <CertificadoInstalado>true</CertificadoInstalado>
+  <CertificadoArquivo />
+  <CertificadoSenha />
+  <CertificadoPIN />
+  <Certificado>CN=Gerardo-PC\Gerardo</Certificado>
+  <CertificadoDigitalThumbPrint>24F67D88BF51FD3E72CC9587CD3DFC32F2B6BCA0</CertificadoDigitalThumbPrint>
+  <GravarRetornoTXTNFe>false</GravarRetornoTXTNFe>
+  <DiasLimpeza>0</DiasLimpeza>
+  <TempoConsulta>2</TempoConsulta>
+  <UsuarioWS />
+  <SenhaWS />
+  <Servico>Nfe</Servico>
+  <CriaPastasAutomaticamente>true</CriaPastasAutomaticamente>
+  <GravarEventosNaPastaEnviadosNFe>false</GravarEventosNaPastaEnviadosNFe>
+  <GravarEventosCancelamentoNaPastaEnviadosNFe>false</GravarEventosCancelamentoNaPastaEnviadosNFe>
+  <GravarEventosDeTerceiros>false</GravarEventosDeTerceiros>
+  <CompactarNfe>false</CompactarNfe>
+  <IndSinc>false</IndSinc>
+  <PastaExeUniDanfe />
+  <PastaConfigUniDanfe />
+  <ConfiguracaoDanfe />
+  <ConfiguracaoCCe />
+  <XMLDanfeMonNFe>false</XMLDanfeMonNFe>
+  <XMLDanfeMonProcNFe>false</XMLDanfeMonProcNFe>
+  <XMLDanfeMonDenegadaNFe>false</XMLDanfeMonDenegadaNFe>
+  <EmailDanfe />
+  <AdicionaEmailDanfe>true</AdicionaEmailDanfe>
+  <diretorioSalvarComo>AM</diretorioSalvarComo>
+  <FTPPastaAutorizados />
+  <FTPPastaRetornos />
+  <FTPNomeDoServidor />
+  <FTPNomeDoUsuario />
+  <FTPSenha />
+  <FTPPorta>21</FTPPorta>
+  <FTPAtivo>false</FTPAtivo>
+  <FTPGravaXMLPastaUnica>false</FTPGravaXMLPastaUnica>
+</Empresa>

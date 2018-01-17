@@ -1,0 +1,11 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Forms.MetroMessageBox.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Forms.MetroTaskWindow.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache

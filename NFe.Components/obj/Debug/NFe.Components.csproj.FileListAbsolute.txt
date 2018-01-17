@@ -1,0 +1,6 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components\bin\Debug\NFe.Components.dll.config
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components\bin\Debug\NFe.Components.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components\bin\Debug\NFe.Components.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.csprojResolveAssemblyReference.cache

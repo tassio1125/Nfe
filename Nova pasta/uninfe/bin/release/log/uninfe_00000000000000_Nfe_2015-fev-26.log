@@ -1,0 +1,10 @@
+﻿15:41:29  Não foi possível carregar o tipo NFe.Service.TaskGerarXMLPedRec do módulo (assembly) NFe.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+   em NFe.Threadings.ThreadService.Start()
+   em uninfe.MainForm.ExecutaServicos() na C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\MainForm.cs:linha 145
+   em System.Windows.Forms.Form.OnLoad(EventArgs e)
+   em System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   em System.Windows.Forms.Control.CreateControl()
+   em System.Windows.Forms.Control.WmShowWindow(Message& m)
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)

@@ -1,0 +1,17 @@
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Service.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Service.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Certificado.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Components.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Components.Info.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.ConvertTxt.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Settings.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Validate.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Certificado.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Components.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.ConvertTxt.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Settings.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Validate.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\obj\Debug\NFe.Service.csprojResolveAssemblyReference.cache
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\obj\Debug\NFe.Service.dll
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\obj\Debug\NFe.Service.pdb
+C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Service\bin\Debug\NFe.Components.Info.pdb
