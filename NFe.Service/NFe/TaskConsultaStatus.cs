@@ -52,11 +52,14 @@ namespace NFe.Service
 
                     //Criar objetos das classes dos serviços dos webservices do SEFAZ
                     var oStatusServico = wsProxy.CriarObjeto(wsProxy.NomeClasseWS);
-                    var oCabecMsg = wsProxy.CriarObjeto(NomeClasseCabecWS(dadosPedSta.cUF, Servico));
-
+                    //var oCabecMsg = wsProxy.CriarObjeto(NomeClasseCabecWS(dadosPedSta.cUF, Servico));
+                    object oCabecMsg = null;
                     //Atribuir conteúdo para duas propriedades da classe nfeCabecMsg
-                    wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.cUF.ToString(), dadosPedSta.cUF.ToString());
-                    wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.versaoDados.ToString(), dadosPedSta.versao);
+                    if (dadosPedSta.versao != "4.00")
+                    {
+                        wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.cUF.ToString(), dadosPedSta.cUF.ToString());
+                        wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.versaoDados.ToString(), dadosPedSta.versao); 
+                    }
 
                     new AssinaturaDigital().CarregarPIN(emp, NomeArquivoXML, Servico);
 

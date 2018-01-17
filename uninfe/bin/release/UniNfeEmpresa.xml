@@ -3,4 +3,7 @@
   <Registro CNPJ="00000000000000" Servico="0">
     <Nome>teste</Nome>
   </Registro>
+  <Registro CNPJ="27987141000104" Servico="0">
+    <Nome>DMA - DISTRIBUIDORA MARANHENSE DE AUTOMACAO LTDA</Nome>
+  </Registro>
 </Empresa>

@@ -4,3 +4,17 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components\bin\Debug\NFe.Components.pd
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.dll
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.pdb
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components\obj\Debug\NFe.Components.csprojResolveAssemblyReference.cache

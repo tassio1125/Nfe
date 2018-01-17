@@ -9,3 +9,29 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Settings.pdb
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.csprojResolveAssemblyReference.cache
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.dll
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Validate.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Validate.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Certificado.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Certificado.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Validate.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Validate.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Certificado.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Certificado.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\bin\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Validate\obj\Debug\NFe.Validate.pdb

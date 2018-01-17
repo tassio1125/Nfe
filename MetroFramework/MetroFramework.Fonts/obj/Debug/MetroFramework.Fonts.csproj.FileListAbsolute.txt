@@ -5,3 +5,19 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\bin\De
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb

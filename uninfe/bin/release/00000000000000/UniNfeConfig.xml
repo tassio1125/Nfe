@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Empresa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Empresa xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <PastaXmlEnvio>C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Envio</PastaXmlEnvio>
   <PastaXmlRetorno>C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Retorno</PastaXmlRetorno>
   <PastaXmlEnviado>C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Enviado</PastaXmlEnviado>

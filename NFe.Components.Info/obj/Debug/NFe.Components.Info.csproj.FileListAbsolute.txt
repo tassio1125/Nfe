@@ -3,3 +3,15 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.Info.pdb
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.csprojResolveAssemblyReference.cache
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.dll
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.Info.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.Info.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\Release\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Components.Info\obj\Debug\NFe.Components.Info.pdb

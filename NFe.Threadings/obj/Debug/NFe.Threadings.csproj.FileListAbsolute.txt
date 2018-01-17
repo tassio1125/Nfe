@@ -17,3 +17,45 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.In
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.csprojResolveAssemblyReference.cache
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.dll
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Threadings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Threadings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Service.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.ConvertTxt.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Certificado.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Validate.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.Info.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Service.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.ConvertTxt.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Certificado.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Validate.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Threadings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Threadings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Service.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.ConvertTxt.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Certificado.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Validate.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.Info.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Service.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.ConvertTxt.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Certificado.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Validate.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\bin\Debug\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Threadings\obj\Debug\NFe.Threadings.pdb

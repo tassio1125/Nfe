@@ -347,7 +347,7 @@ namespace NFe.Components
             {
                 Tag = "envEvento",
                 ID = ++id,
-                ArquivoXSD = "EventoCanc\\envEventoCancNFe_v1.00.xsd",
+                ArquivoXSD = "EventoCanc\\envEventoCancNFe_v4.00.xsd",
                 Descricao = "XML de evento de cancelamento da NFe",
                 TagAssinatura = "evento",
                 TagAtributoId = "infEvento",

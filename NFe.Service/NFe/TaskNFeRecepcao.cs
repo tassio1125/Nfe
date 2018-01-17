@@ -60,11 +60,12 @@ namespace NFe.Service
 
                 //Criar objetos das classes dos serviços dos webservices do SEFAZ
                 object oRecepcao = wsProxy.CriarObjeto(wsProxy.NomeClasseWS);// NomeClasseWS(Servico, Convert.ToInt32(oLer.oDadosNfe.cUF)));
-                var oCabecMsg = wsProxy.CriarObjeto(NomeClasseCabecWS(Convert.ToInt32(oLer.oDadosNfe.cUF), Servico));
+                object oCabecMsg = null;
+                //var oCabecMsg = wsProxy.CriarObjeto(NomeClasseCabecWS(Convert.ToInt32(oLer.oDadosNfe.cUF), Servico));
 
                 //Atribuir conteúdo para duas propriedades da classe nfeCabecMsg
-                wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.cUF.ToString(), oLer.oDadosNfe.cUF);
-                wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.versaoDados.ToString(), oLer.oDadosNfe.versao);
+                //wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.cUF.ToString(), oLer.oDadosNfe.cUF);
+                //wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.versaoDados.ToString(), oLer.oDadosNfe.versao);
 
                 //XML neste ponto a NFe já está assinada, pois foi assinada, validada e montado o lote para envio por outro serviço. 
                 //Fica aqui somente este lembrete. Wandrey 16/03/2010

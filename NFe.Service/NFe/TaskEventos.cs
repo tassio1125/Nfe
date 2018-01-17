@@ -105,13 +105,18 @@ namespace NFe.Service
                         dadosEnvEvento.eventos[0].mod);
 
                     //Criar objetos das classes dos serviços dos webservices do SEFAZ
-                    object oRecepcaoEvento = wsProxy.CriarObjeto(wsProxy.NomeClasseWS);
-                    object oCabecMsg = wsProxy.CriarObjeto(NomeClasseCabecWS(cOrgao, Servico));
+                    object oRecepcaoEvento = wsProxy.CriarObjeto(wsProxy.NomeClasseWS);                    
                     string xmlExtEnvio = string.Empty;
                     string xmlExtRetorno = string.Empty;
 
-                    wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.cUF.ToString(), cOrgao.ToString());
-                    wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.versaoDados.ToString(), NFe.ConvertTxt.versoes.VersaoXMLEvento);
+                    object oCabecMsg = null;
+                    try
+                    {
+                        oCabecMsg = wsProxy.CriarObjeto(NomeClasseCabecWS(cOrgao, Servico));
+                        wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.cUF.ToString(), cOrgao.ToString());
+                        wsProxy.SetProp(oCabecMsg, NFe.Components.TpcnResources.versaoDados.ToString(), NFe.ConvertTxt.versoes.VersaoXMLEvento);
+                    }
+                    catch{ }
 
                     if (novaNomenclatura)
                     {
@@ -553,7 +558,7 @@ namespace NFe.Service
                     if (string.IsNullOrEmpty(evento.descEvento)) evento.descEvento = EnumHelper.GetDescription(tpe);
 
                     if (string.IsNullOrEmpty(evento.verEvento))
-                        evento.verEvento = "1.00";
+                        evento.verEvento = "4.00";
 
                     if (evento.tpAmb == 0)
                         evento.tpAmb = Empresas.Configuracoes[emp].AmbienteCodigo;

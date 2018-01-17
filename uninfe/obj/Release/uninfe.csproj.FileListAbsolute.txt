@@ -67,3 +67,77 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csprojResolveAss
 \\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.application
 \\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.exe
 \\192.168.0.10\f\Desenvolvimento\Atualização NF-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\UniNfeSobre.xml
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe.config
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe.manifest
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.application
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Info.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Interface.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Threadings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Certificado.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Service.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Validate.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.ConvertTxt.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Interface.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Threadings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Certificado.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Service.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Validate.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.ConvertTxt.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\obj\Release\sgenfe.FrmRegistro.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.MainForm.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.Properties.Resources.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csproj.GenerateResource.Cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.exe.manifest
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.application
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.exe
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Wsdl.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Wsdl.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\UniNfeSobre.xml
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe.config
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe.manifest
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.application
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.exe
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\SgeNFe.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Info.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Interface.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Threadings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Certificado.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Service.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Validate.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.ConvertTxt.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Wsdl.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Interface.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Threadings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Certificado.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Service.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Validate.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.ConvertTxt.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\obj\Release\sgenfe.FrmRegistro.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.MainForm.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.Properties.Resources.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csproj.GenerateResource.Cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\obj\Release\uninfe.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.exe.manifest
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.application
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.exe
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\obj\Release\SgeNFe.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\release\NFe.Components.Wsdl.dll

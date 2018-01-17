@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Resources\Sge.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="SgeNFe" version="4.6.0.22969" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="SgeNFe" version="4.6.0.20759" language="neutral" processorArchitecture="msil" />
     <commandLine file="SgeNFe.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -50,7 +50,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UeOEt/wS/ITMzXFqvA/WZVWydFhDpFr8FLtC8yRk3nY=</dsig:DigestValue>
+        <dsig:DigestValue>SdATUOc2+/zTX0k0JcMMtCyaYFkR4vDpC3tZwN5atZM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>njnAE5MFZL0N65VZENEdcYQdgbulqB6XeYN/aysxcm0=</dsig:DigestValue>
+        <dsig:DigestValue>8x1gM0Hivwj+SlRvwsDNedDCCP9O1I7zI/Dz35ebGmM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gJpULFfW4pMxJBQozetOorA1L/dRN2e6U8qJa5RSkXQ=</dsig:DigestValue>
+        <dsig:DigestValue>BxH8959HXFafVeT1ALnBP3Pq2W5scAfxoRLy3PUc2So=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,19 +86,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HMy31gyaDW4g/+UGQy/bjZFKVE12S3u8VkZbLdQgvzk=</dsig:DigestValue>
+        <dsig:DigestValue>fdREEgzz6F+EHOMFcEJwMvPvaAw6X7Apk8HeErnC18E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NFe.ConvertTxt.dll" size="153600">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NFe.ConvertTxt.dll" size="153088">
       <assemblyIdentity name="NFe.ConvertTxt" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QllY3wbW3De1Xo2SxqHKjS1XHdrfO6DHycRfz5hqx0I=</dsig:DigestValue>
+        <dsig:DigestValue>GqdtHKA1tS/EDODnwVCT2VOWKzY5vTc1XRWRip5GFNo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -110,7 +110,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>sN0fWIkLOnGKfxd1Rd+kZWoNrVpI9xr8zQxHoVI3JPg=</dsig:DigestValue>
+        <dsig:DigestValue>U3y4HJLdMzdrnv20U9ntn8qcAeDeopvcMu4A9Pdfo78=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -122,7 +122,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>q9T/klyHkLHnyBJV2dlXrJnsge07tCHN5QB3f50oa68=</dsig:DigestValue>
+        <dsig:DigestValue>312dSqhUET03rMRvVoSWB9B1U1q8NdzO/ZK79ElnpMQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -134,7 +134,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>C8fC30dqi34FYQJYAN9eDKpmw5TN9yCY3aAk92xp4JI=</dsig:DigestValue>
+        <dsig:DigestValue>q6/YghvSOYWnPXAH3vN3iQK+ByAXkRsqLJuZujDFDb0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -146,7 +146,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+bD8Iw6ZDpBupUIgVyGKAgL3nMalhYQViwr9qhADx5s=</dsig:DigestValue>
+        <dsig:DigestValue>GXELOV0wjC3wkb7ASKOSIcb1cxJfaifonSId4lmI/vc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -158,19 +158,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>i9OiyF/vT+Eu9yzIeeo0lYLhRDqmi+lzJBwEulyQN+I=</dsig:DigestValue>
+        <dsig:DigestValue>hGSBQyeq5P8gskhdbNlcsX5jMElHMWy2pgUsa2AvGbg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SgeNFe.exe" size="209408">
-      <assemblyIdentity name="SgeNFe" version="4.6.0.22969" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="SgeNFe" version="4.6.0.20759" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/Jfe/Z6Mcain73F5f8nW2YY2/m7f4xZPi1X/F9zApBM=</dsig:DigestValue>
+        <dsig:DigestValue>UB6Fs+kvFe9r3Z/DsF3xL7OPJHobq8csC7BpbYtX1gk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

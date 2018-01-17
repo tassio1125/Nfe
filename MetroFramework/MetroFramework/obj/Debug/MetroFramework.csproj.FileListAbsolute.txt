@@ -9,3 +9,26 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\Me
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.dll
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.pdb
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Forms.MetroMessageBox.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Forms.MetroTaskWindow.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Forms.MetroMessageBox.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Forms.MetroTaskWindow.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\MetroFramework\MetroFramework\obj\Debug\MetroFramework.pdb

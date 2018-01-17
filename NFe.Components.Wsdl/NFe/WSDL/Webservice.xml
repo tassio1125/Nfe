@@ -414,7 +414,7 @@
       <NFeConsulta></NFeConsulta>
       <NFeStatusServico></NFeStatusServico>
       <NFeConsultaCadastro></NFeConsultaCadastro>
-      <NFeRecepcaoEvento>wsdl\homologacao\AN\HANRecepcaoEvento.wsdl</NFeRecepcaoEvento>
+      <NFeRecepcaoEvento>wsdl\homologacao\AN\HANRecepcaoEvento4.wsdl</NFeRecepcaoEvento>
       <NFeConsultaNFeDest></NFeConsultaNFeDest>
       <NFeDownload></NFeDownload>
       <NFeManifDest></NFeManifDest>
@@ -1740,7 +1740,7 @@
       <CTeConsultaCadastro></CTeConsultaCadastro>
     </LocalProducao>
   </Estado>
-  <Estado ID="991" Nome="Serviços da SEFAZ Ambiente Nacional" UF="AN" SVC="teNone">
+  <Estado ID="91" Nome="Serviços da SEFAZ Ambiente Nacional" UF="AN" SVC="teNone">
     <LocalHomologacao>
       <NFeRecepcao></NFeRecepcao>
       <NFeRetRecepcao></NFeRetRecepcao>
@@ -1748,7 +1748,7 @@
       <NFeConsulta></NFeConsulta>
       <NFeStatusServico></NFeStatusServico>
       <NFeConsultaCadastro></NFeConsultaCadastro>
-      <NFeRecepcaoEvento></NFeRecepcaoEvento>
+      <NFeRecepcaoEvento>wsdl\Homologacao\AN\HANRecepcaoEvento4.wsdl</NFeRecepcaoEvento>
       <NFeConsultaNFeDest></NFeConsultaNFeDest>
       <NFeDownload></NFeDownload>
       <NFeManifDest></NFeManifDest>

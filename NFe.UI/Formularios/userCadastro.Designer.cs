@@ -76,8 +76,9 @@
             this.cbVersao.FormattingEnabled = true;
             this.cbVersao.ItemHeight = 19;
             this.cbVersao.Items.AddRange(new object[] {
-            "2.00",
-            "3.10"});
+            "4.00",
+            "3.10",
+            "2.00"});
             this.cbVersao.Location = new System.Drawing.Point(232, 127);
             this.cbVersao.MaxDropDownItems = 15;
             this.cbVersao.Name = "cbVersao";

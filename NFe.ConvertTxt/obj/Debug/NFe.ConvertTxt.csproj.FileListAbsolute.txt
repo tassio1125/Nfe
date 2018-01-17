@@ -9,3 +9,29 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.Pr
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.csproj.GenerateResource.Cache
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.dll
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.ConvertTxt.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.ConvertTxt.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.Properties.Resources.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.csproj.GenerateResource.Cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.ConvertTxt.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.ConvertTxt.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\bin\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.Properties.Resources.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.csproj.GenerateResource.Cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.ConvertTxt\obj\Debug\NFe.ConvertTxt.pdb

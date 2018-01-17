@@ -1074,7 +1074,9 @@
     <EmbeddedResource Include="NFse\WSDL\Producao\PLucasRVMT_WebISS.wsdl" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="NFe\WSDL\Webservice.xml" />
+    <Content Include="NFe\WSDL\Webservice.xml">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
@@ -1316,6 +1318,9 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="NFe\schemas\EventoCanc\tiposBasico_v1.03.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NFe\schemas\EventoCanc\tiposBasico_v4.00.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="NFe\schemas\EventoCanc\xmldsig-core-schema_v1.01.xsd">
@@ -1614,6 +1619,7 @@
     <None Include="NFe\WSDL\Homologacao\AN\HANNFeConsultaDest.wsdl" />
     <None Include="NFe\WSDL\Homologacao\AN\HANNFeDistribuicaoDFe.wsdl" />
     <None Include="NFe\WSDL\Homologacao\AN\HANNfeDownloadNF.wsdl" />
+    <None Include="NFe\WSDL\Homologacao\AN\HANRecepcaoEvento4.wsdl" />
     <None Include="NFe\WSDL\Homologacao\AN\HANRecepcaoEvento.wsdl" />
     <None Include="NFe\WSDL\Homologacao\BA\HBACadConsultaCadastro2.wsdl" />
     <None Include="NFe\WSDL\Homologacao\BA\HBANfeAutorizacao.wsdl" />

@@ -119,6 +119,7 @@
             this.cbVersao.FormattingEnabled = true;
             this.cbVersao.ItemHeight = 19;
             this.cbVersao.Items.AddRange(new object[] {
+            "4.00",
             "3.10",
             "2.00"});
             this.cbVersao.Location = new System.Drawing.Point(185, 128);
@@ -267,7 +268,7 @@
             this.Controls.SetChildIndex(this.metroLabel17, 0);
             this.Controls.SetChildIndex(this.comboUf, 0);
             this.Controls.SetChildIndex(this.metroLabel1, 0);
-            this.Controls.SetChildIndex(this.cbVersao, 0);
+            this.Controls.SetChildIndex(this.cbVersao, 1);
             this.Controls.SetChildIndex(this.metroLabel2, 0);
             this.Controls.SetChildIndex(this.cbAmbiente, 0);
             this.Controls.SetChildIndex(this.lblAmbiente, 0);

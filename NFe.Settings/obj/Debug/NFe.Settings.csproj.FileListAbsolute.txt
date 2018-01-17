@@ -5,3 +5,21 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Components.pdb
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.csprojResolveAssemblyReference.cache
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.dll
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Settings\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.Settings\obj\Debug\NFe.Settings.pdb

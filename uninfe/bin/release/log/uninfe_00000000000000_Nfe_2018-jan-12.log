@@ -1,0 +1,70 @@
+﻿09:33:49  O arquivo C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Envio\Temp\20180112T093347-ped-sta.xml iniciou o processamento
+09:34:16  O arquivo C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Envio\Temp\20180112T093347-ped-sta.xml foi movido para C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Erro\20180112T093347-ped-sta.xml
+STACK TRACE:
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em NFe.Components.Functions.WriteLog(String msg, Boolean gravarStackTrace, Boolean geraLog, String CNPJEmpresa) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components\Functions.cs:linha 744
+   em NFe.Settings.Auxiliar.WriteLog(String msg, Boolean gravarStackTrace) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\Auxiliar.cs:linha 63
+   em NFe.Service.TFunctions.MoveArqErro(String Arquivo, String ExtensaoArq) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\TFunctions.cs:linha 208
+   em NFe.Service.TFunctions.MoveArqErro(String Arquivo) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\TFunctions.cs:linha 183
+   em NFe.Service.TFunctions.GravarArqErroServico(String arquivo, String finalArqEnvio, String finalArqErro, Exception exception, ErroPadrao erroPadrao, Boolean moveArqErro) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\TFunctions.cs:linha 82
+   em NFe.Service.TFunctions.GravarArqErroServico(String arquivo, String finalArqEnvio, String finalArqErro, Exception exception) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\TFunctions.cs:linha 36
+   em NFe.Service.TaskNFeConsultaStatus.Execute() na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\NFe\TaskConsultaStatus.cs:linha 61
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   em System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   em System.Type.InvokeMember(String name, BindingFlags invokeAttr, Binder binder, Object target, Object[] args)
+   em NFe.Service.Processar.EnviarArquivo(String arquivo, Object nfe, String metodo) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\Processar.cs:linha 1082
+   em NFe.Service.Processar.DirecionarArquivo(Int32 emp, Boolean veCertificado, Boolean veConexao, String arquivo, Object taskClass) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\Processar.cs:linha 1004
+   em NFe.Service.Processar.ProcessaArquivo(Int32 emp, String arquivo) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\Processar.cs:linha 112
+   em NFe.Threadings.ThreadControlEvents.Processar(ThreadItem item) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\ThreadControlEvents.cs:linha 49
+   em NFe.Threadings.ThreadControlEvents.ThreadItem_OnStarted(ThreadItem item) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\ThreadControlEvents.cs:linha 39
+   em NFe.Threadings.ThreadItem.Processar(ThreadItem item) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\ThreadControl.cs:linha 285
+   em NFe.Threadings.ThreadItem.Run() na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\ThreadControl.cs:linha 274
+   em NFe.Threadings.MonitoraPasta.fsw_OnFileChanged(FileInfo fi) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\MonitoraPasta.cs:linha 169
+   em NFe.Threadings.FileSystemWatcher.<>c__DisplayClass20_0.<RaiseFileChanged>b__0() na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\FileSystemWatcher.cs:linha 206
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart()
+09:34:16  Versão|4.6.0.17201
+ErrorCode|0000000000
+Message|Valor não pode ser nulo.
+Nome do parâmetro: cert
+StackTrace|   em System.Security.Cryptography.X509Certificates.X509Certificate..ctor(X509Certificate cert)
+   em System.Security.Cryptography.X509Certificates.X509Certificate2..ctor(X509Certificate certificate)
+   em NFe.Certificado.AssinaturaDigital.CarregarPIN(Int32 emp, String arqXML, Servicos servico) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Certificado\AssinaturaDigital.cs:linha 269
+   em NFe.Service.TaskNFeConsultaStatus.Execute() na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\NFe\TaskConsultaStatus.cs:linha 61
+Source|mscorlib
+Type|System.ArgumentNullException
+TargetSite|Void .ctor(System.Security.Cryptography.X509Certificates.X509Certificate)
+HashCode|17468340
+STACK TRACE:
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em NFe.Components.Functions.WriteLog(String msg, Boolean gravarStackTrace, Boolean geraLog, String CNPJEmpresa) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Components\Functions.cs:linha 744
+   em NFe.Settings.Auxiliar.WriteLog(String msg, Boolean gravarStackTrace) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Settings\Auxiliar.cs:linha 63
+   em NFe.Service.TFunctions.GravarArqErroServico(String arquivo, String finalArqEnvio, String finalArqErro, Exception exception, ErroPadrao erroPadrao, Boolean moveArqErro) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\TFunctions.cs:linha 160
+   em NFe.Service.TFunctions.GravarArqErroServico(String arquivo, String finalArqEnvio, String finalArqErro, Exception exception) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\TFunctions.cs:linha 36
+   em NFe.Service.TaskNFeConsultaStatus.Execute() na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\NFe\TaskConsultaStatus.cs:linha 61
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   em System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   em System.Type.InvokeMember(String name, BindingFlags invokeAttr, Binder binder, Object target, Object[] args)
+   em NFe.Service.Processar.EnviarArquivo(String arquivo, Object nfe, String metodo) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\Processar.cs:linha 1082
+   em NFe.Service.Processar.DirecionarArquivo(Int32 emp, Boolean veCertificado, Boolean veConexao, String arquivo, Object taskClass) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\Processar.cs:linha 1004
+   em NFe.Service.Processar.ProcessaArquivo(Int32 emp, String arquivo) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Service\Processar.cs:linha 112
+   em NFe.Threadings.ThreadControlEvents.Processar(ThreadItem item) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\ThreadControlEvents.cs:linha 49
+   em NFe.Threadings.ThreadControlEvents.ThreadItem_OnStarted(ThreadItem item) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\ThreadControlEvents.cs:linha 39
+   em NFe.Threadings.ThreadItem.Processar(ThreadItem item) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\ThreadControl.cs:linha 285
+   em NFe.Threadings.ThreadItem.Run() na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\ThreadControl.cs:linha 274
+   em NFe.Threadings.MonitoraPasta.fsw_OnFileChanged(FileInfo fi) na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\MonitoraPasta.cs:linha 169
+   em NFe.Threadings.FileSystemWatcher.<>c__DisplayClass20_0.<RaiseFileChanged>b__0() na C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.Threadings\FileSystemWatcher.cs:linha 206
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart()
+09:34:16  O arquivo C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Envio\Temp\20180112T093347-ped-sta.xml finalizou o processamento
+09:34:16  O arquivo C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\release\00000000000000\Envio\Temp\20180112T093347-ped-sta.xml foi descarregado da lista de processamento

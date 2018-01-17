@@ -6,3 +6,21 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.ex
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.pdb
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\UniNFeServico.exe
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\uninfe\bin\Release\UniNFeServico.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\Release\UniNFeServico.exe
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\uninfe\bin\Release\UniNFeServico.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.Installer1.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.UniNFeService.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.csproj.GenerateResource.Cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.exe
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\Release\UniNFeServico.exe
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\uninfe\bin\Release\UniNFeServico.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.Installer1.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.UniNFeService.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.csproj.GenerateResource.Cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.exe
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\UniNFeServico\obj\Release\UniNFeServico.pdb

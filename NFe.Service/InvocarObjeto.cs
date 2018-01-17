@@ -95,7 +95,6 @@ namespace NFe.Service
                     //Registrar o erro da validação para o sistema ERP
                     throw new ExceptionSemInternet(ErroPadrao.FalhaInternet, "\r\nArquivo: " + XmlNfeDadosMsg);
                 }
-
             //Atribuir conteúdo para uma propriedade da classe NfeStatusServico2
             if (cMetodo.Substring(0, 3).ToLower() == "sce") // DPEC
             {
@@ -140,9 +139,9 @@ namespace NFe.Service
                     case Servicos.DFeEnviar:
                         break;
 
-                    default:
-                        oWSProxy.SetProp(oServicoWS, "nfeCabecMsgValue", cabecMsg);
-                        break;
+                    /*default:
+                            oWSProxy.SetProp(oServicoWS, "nfeCabecMsgValue", cabecMsg);
+                        break;*/
                 }
             }
 

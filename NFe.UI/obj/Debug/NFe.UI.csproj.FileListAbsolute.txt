@@ -56,3 +56,123 @@ C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.csproj.GenerateRes
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.dll
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.pdb
 C:\Sistemas\SGE\Fontes\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.UI.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.UI.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Certificado.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.Info.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.ConvertTxt.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Service.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Threadings.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Validate.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.Design.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Certificado.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.ConvertTxt.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Service.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Threadings.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Validate.pdb
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.FormDummy.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.FormNova.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.FormSenha.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.FormSpinner.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.FormUpdate.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.FormWait.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.menu.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.NFSe.FormMunicipio.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.NFSe.userGrid1.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.NFSe.userGrid2.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_certificado.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_danfe.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_diversos.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_ftp.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_geral.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_pastas.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userCadastro.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userCadastroResult.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userCadastroResultDados.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userConfiguracoes.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.UserControl1.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.UserControl2.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userLogs.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userMunicipios.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userPedidoSituacao.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userSobre.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userValidaXML.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Form_Main.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\MetroFramework.Demo.MainForm.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Properties.Resources.resources
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.csproj.GenerateResource.Cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.dll
+C:\Users\User Aspire\Documents\SGE\nf-e\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.UI.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.UI.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.Design.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Certificado.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.Info.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.ConvertTxt.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Service.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Settings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Threadings.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Validate.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.Design.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\MetroFramework.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Certificado.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.Info.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Components.dll.config
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.ConvertTxt.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Service.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Settings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Threadings.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\bin\Debug\NFe.Validate.pdb
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.csprojResolveAssemblyReference.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.FormDummy.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.FormNova.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.FormSenha.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.FormSpinner.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.FormUpdate.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.FormWait.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.menu.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.NFSe.FormMunicipio.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.NFSe.userGrid1.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.NFSe.userGrid2.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_certificado.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_danfe.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_diversos.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_ftp.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_geral.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userConfiguracao_pastas.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userCadastro.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userCadastroResult.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userCadastroResultDados.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userConfiguracoes.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.UserControl1.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.UserControl2.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userLogs.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Formularios.userMunicipios.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userPedidoSituacao.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userSobre.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.userValidaXML.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Form_Main.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\MetroFramework.Demo.MainForm.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.Properties.Resources.resources
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.csproj.GenerateResource.Cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.csproj.CoreCompileInputs.cache
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.dll
+C:\Users\User Aspire\Documents\SGE\Atualização Nf-e\Projetos\SgeIBNFe_v3.10\NFe.UI\obj\Debug\NFe.UI.pdb

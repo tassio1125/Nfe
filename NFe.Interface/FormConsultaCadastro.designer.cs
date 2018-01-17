@@ -267,6 +267,7 @@
             this.cbVersao.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbVersao.FormattingEnabled = true;
             this.cbVersao.Items.AddRange(new object[] {
+            "4.00",
             "3.10",
             "2.00"});
             this.cbVersao.Location = new System.Drawing.Point(189, 71);
